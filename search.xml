@@ -18,4 +18,24 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>华为 eNSP 模拟器下载</title>
+    <url>/posts/ensp-download.html</url>
+    <content><![CDATA[<h2 id="主程序及依赖下载"><a href="#主程序及依赖下载" class="headerlink" title="主程序及依赖下载"></a>主程序及依赖下载</h2><p>链接：<a href="https://pan.wo.cn/s/1p0w2J77683">https://pan.wo.cn/s/1p0w2J77683</a><br>提取码：KWSP</p>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><ol>
+<li><p>需要先安装依赖程序，WinPcap_4_1_3.exe、VirtualBox-5.2.26-128414-Win.exe、Wireshark-win64-3.0.6.exe，方可安装eNSP！</p>
+</li>
+<li><p>安装eNSP会有防火墙放行提示，注意一律同意或前往Wnidows 安全中心&#x2F;防火墙和网络保护 关闭防火墙。 </p>
+</li>
+<li><p>注意关闭内核隔离，具体路径：Windows 安全中心&#x2F;设备安全性&#x2F;内核隔离详细信息&#x2F;内存完整性 关闭内存完整性。</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>eNSP</tag>
+      </tags>
+  </entry>
 </search>
